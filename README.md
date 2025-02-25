@@ -15,7 +15,7 @@ This project allows users to:
 ## 2. Technologies Used
 - **Django** - Web framework for Python
 - **MySQL & MongoDB** - Databases for structured and unstructured data
-- **HTML, CSS, JavaScript (AJAX), Bootstrap** - Frontend design
+- **HTML, CSS, JavaScript (AJAX), Bootstrap** - Frontend design(to devlope frontend i take help of chatGPT)
 
 ---
 ## 3. Database Schema (MySQL Tables & MongoDB Collection)
