@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/daba6775-6eac-4179-886f-4d9eb336ad49
-
 # MCU Django Project
 
 This Django project is designed for Marvel Cinematic Universe (MCU) fans, providing information on movies, superheroes, fan stories, and more. It integrates MySQL and MongoDB for data storage and management.
@@ -113,10 +110,7 @@ This project supports the following operations:
 ## 5. Video Execution of the Project
 Below is a demonstration of the project in action:
 
-### MCU Django Project
-![Project Screenshot](image.png)
-
-🎬 **Video:** [MCU Django Project](MCU-Django.Project.mp4)
+https://github.com/user-attachments/assets/6e4de0e1-f47e-4693-ab5c-f9839f6adf70
 
 To fully understand the project, watch the execution video that demonstrates:
 - Fetching all Marvel movies from MongoDB.
@@ -146,7 +140,7 @@ python manage.py runserver
 ## 7. Done!
 This completes the setup and execution of the MCU Django project. 🚀
 
-https://github.com/user-attachments/assets/6e4de0e1-f47e-4693-ab5c-f9839f6adf70
+
 
 
 
