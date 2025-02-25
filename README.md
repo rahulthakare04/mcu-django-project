@@ -2,7 +2,7 @@
 
 This Django project is designed for Marvel Cinematic Universe (MCU) fans, providing information on movies, superheroes, fan stories, and more. It integrates MySQL and MongoDB for data storage and management.
 
-## Project Overview
+## 1. Project Overview
 This project allows users to:
 - View Marvel movies in sequence
 - Search for Marvel superheroes
@@ -11,13 +11,13 @@ This project allows users to:
 - Read fan stories
 - Check upcoming Marvel movies
 
-### Technologies Used
+## 2. Technologies Used
 - **Django** - Web framework for Python
 - **MySQL & MongoDB** - Databases for structured and unstructured data
 - **HTML, CSS, JavaScript (AJAX), Bootstrap** - Frontend design
 
 ---
-## Database Schema (MySQL Tables & MongoDB Collection)
+## 3. Database Schema (MySQL Tables & MongoDB Collection)
 This project uses MySQL for structured data and MongoDB for dynamic content. Below is the schema:
 
 ### MySQL Tables
@@ -96,26 +96,31 @@ CREATE TABLE superheroes (
 ```
 
 ---
-## CRUD Operations Performed
+## 4. CRUD Operations Performed
 This project supports the following operations:
 
-1. **Add Movie (INSERT)** - Users can add new movies.
-2. **View All Movies (SELECT)** - Displays a list of all movies.
-3. **Search by Genre/Release Year (SEARCH)** - Filters movies based on queries.
-4. **Update Movie Details (UPDATE)** - Allows modification of existing data.
-5. **Delete Movie (DELETE)** - Removes a record from the database.
+- **Add Movie (INSERT)** - Users can add new movies.
+- **View All Movies (SELECT)** - Displays a list of all movies.
+- **Search by Genre/Release Year (SEARCH)** - Filters movies based on queries.
+- **Update Movie Details (UPDATE)** - Allows modification of existing data.
+- **Delete Movie (DELETE)** - Removes a record from the database.
 
 ---
-## Video Execution of the Project
+## 5. Video Execution of the Project
 Below is a demonstration of the project in action:
 
-### Django-Flask Project
+### MCU Django Project
 ![Project Screenshot](image.png)
 
-🎬 **Video:** [Django-Flask Project](Django-Flask.Project.mp4)
+🎬 **Video:** [MCU Django Project](MCU-Django.Project.mp4)
+
+To fully understand the project, watch the execution video that demonstrates:
+- Fetching all Marvel movies from MongoDB.
+- Fetching all superheroes' data from MySQL.
+- Searching for a superhero by name.
 
 ---
-## How to Run the Project
+## 6. How to Run the Project
 1. Clone this repository:
 ```sh
 git clone https://github.com/your-username/mcu-django-project.git
@@ -134,7 +139,7 @@ python manage.py runserver
 4. Open `http://127.0.0.1:8000/` in your browser to use the application.
 
 ---
-## Done!
+## 7. Done!
 This completes the setup and execution of the MCU Django project. 🚀
 
 Feel free to contribute, suggest improvements, or report issues!
